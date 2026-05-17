@@ -1,5 +1,4 @@
-﻿$McDonalds = "http://nutrition.mcdonalds.com/nutrition1/nutritionfacts.pdf"
-$OliveGarden = "https://media.olivegarden.com/en_us/pdf/olive_garden_nutrition.pdf"
+﻿$OliveGarden = "https://media.olivegarden.com/en_us/pdf/olive_garden_nutrition.pdf"
 $TacoBell = "https://mywisenutrition.files.wordpress.com/2012/08/taco-bell.pdf"
 $menu = $OliveGarden
 
